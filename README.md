@@ -162,13 +162,11 @@ Checkpoints are saved in the directory specified by `--checkpoint_dir`.
 If you use this code, please cite the original CLIP and OrdinalCLIP papers:
 
 ```bibtex
-@inproceedings{radford2021learning,
-  title={Learning Transferable Visual Models From Natural Language Supervision},
-  author={Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and others},
-  booktitle={International Conference on Machine Learning},
-  pages={8748--8763},
-  year={2021},
-  organization={PMLR}
+@article{yu2024clip,
+  title={CLIP-DR: Textual Knowledge-Guided Diabetic Retinopathy Grading with Ranking-aware Prompting},
+  author={Yu, Qinkai and Xie, Jianyang and Nguyen, Anh and Zhao, He and Zhang, Jiong and Fu, Huazhu and Zhao, Yitian and Zheng, Yalin and Meng, Yanda},
+  journal={arXiv preprint arXiv:2407.04068},
+  year={2024}
 }
 ```
 
